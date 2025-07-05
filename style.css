@@ -6,15 +6,15 @@
 }
 
 body {
-        font-family: Inter, sans-serif;
-        color: #303030;
-    }
+    font-family: Inter, sans-serif;
+    color: #303030;
+}
 
 header {
     /* Стили для хедера */
     padding: 14px 0;
     background-color: #2965F1;
-    }
+}
 
 header span {
     /* Стили для текста в хедере IT-INCUBATOR */
