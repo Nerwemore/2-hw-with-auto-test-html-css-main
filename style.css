@@ -6,9 +6,9 @@
 }
 
 body {
-    font-family: "Inter", sans-serif;
-    color: #303030;
-}
+        font-family: "Inter", sans-serif;
+        color: #303030;
+    }
 
 header {
     /* Стили для хедера */
@@ -35,7 +35,6 @@ header span {
 
 .main-title {
     /* Стили для заголовка в первой секции */
-    color: #303030;
     font-weight: 700;
     font-size: 48px;
     line-height: 100%;
@@ -46,7 +45,6 @@ header span {
 
 .main-text {
     /* Стили для текста в первой секции */
-    color: #303030;
     font-weight: 400;
     font-size: 18px;
     line-height: 100%;
@@ -74,7 +72,6 @@ select {
     border: 1px solid #3030304D;
     background: url(./assets/ep_arrow-down.svg) no-repeat right 14.7px top 50%;
     appearance: none;
-    color: #303030;
     font-weight: 400;
     font-size: 16px;
     line-height: 100%;
@@ -84,7 +81,6 @@ select {
 
 .section-title {
     /* Стили для заголовков во второй секции */
-    color: #303030;
     font-weight: 700;
     font-size: 24px;
     line-height: 100%;
@@ -96,7 +92,6 @@ select {
     /* Стили для маркированного списка во второй секции */
     list-style-image: url(./assets/Vector.svg);
     padding-left: 20px;
-    color: #303030;
     font-weight: 400;
     font-size: 16px;
     line-height: 100%;
@@ -105,7 +100,6 @@ select {
 .books-list {
     /* Стили для нумерованного списка во второй секции */
     padding-left: 20px;
-    color: #303030;
     font-weight: 400;
     font-size: 16px;
     line-height: 100%;
@@ -113,7 +107,6 @@ select {
 
 .label {
     /* Стили для подписей чекбоксов */
-    color: #303030;
     font-weight: 400;
     font-size: 16px;
     line-height: 100%;
@@ -126,7 +119,6 @@ select {
     padding: 9px 215px 8px 12px;
     border-radius: 5px;
     border: 1px solid #30303033;
-    color: #303030;
     font-weight: 400;
     font-size: 16px;
     line-height: 100%;
@@ -161,7 +153,6 @@ table {
     width: 300px;
     height: 196px;
     text-align: left;
-    color: #303030;
     font-size: 14px;
     line-height: 100%;
     letter-spacing: 0px;
