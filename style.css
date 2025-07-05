@@ -91,7 +91,7 @@ select {
 .frameworks-list {
     /* Стили для маркированного списка во второй секции */
     list-style-image: url(./assets/Vector.svg);
-    padding: 0px 20px;
+    padding: 0px 20px 0px 20px;
     font-weight: 400;
     font-size: 16px;
     line-height: 100%;
@@ -99,7 +99,7 @@ select {
 
 .books-list {
     /* Стили для нумерованного списка во второй секции */
-    padding: 0px 20px;
+    padding: 0px 20px 0px 20px;
     font-weight: 400;
     font-size: 16px;
     line-height: 100%;
@@ -161,13 +161,13 @@ table {
 
 th, td {
     /* Стили для ячеек таблицы */  
-    padding: 12px 15px 11px;
+    padding: 12px 15px;
      }
 
 footer {
     /* Стили для футера */
     background-color: #A3A7FF4D;
-    padding: 26px 0px 27px;
+    padding: 26px 0px;
 }
 
 .footer-link {
