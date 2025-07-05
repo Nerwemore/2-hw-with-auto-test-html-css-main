@@ -5,12 +5,12 @@
     box-sizing: border-box;
 }
 
-.body {
+body {
     font-family: 'Inter', sans-serif;
     color: #303030;
 }
 
-.header {
+header {
     /* Стили для хедера */
     padding: 14px 0;
     background-color: #2965F1;
